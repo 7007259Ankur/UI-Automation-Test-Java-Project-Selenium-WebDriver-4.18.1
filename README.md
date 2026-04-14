@@ -1,6 +1,5 @@
 # Selenium-TestNG-Automation-Framework
 
-![CI](https://github.com/<your-org>/<your-repo>/actions/workflows/ci.yml/badge.svg)
 
 Production-ready UI Automation Framework for [OrangeHRM Demo](https://opensource-demo.orangehrmlive.com) built with Selenium WebDriver 4, TestNG, and ExtentReports 5.
 
