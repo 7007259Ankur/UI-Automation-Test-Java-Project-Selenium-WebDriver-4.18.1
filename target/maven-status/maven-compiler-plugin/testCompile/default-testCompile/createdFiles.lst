@@ -1,0 +1,10 @@
+base\BaseTest.class
+pages\LoginPage.class
+listeners\TestListener.class
+utilities\ConfigReader.class
+pages\DashboardPage.class
+utilities\DriverFactory.class
+utilities\TestDataGenerator.class
+utilities\ExcelReader.class
+tests\LoginTest.class
+utilities\ScreenshotUtil.class
